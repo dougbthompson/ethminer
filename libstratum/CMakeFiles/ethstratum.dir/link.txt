@@ -1,0 +1,2 @@
+/bin/ar qc libethstratum.a  CMakeFiles/ethstratum.dir/EthStratumClient.cpp.o CMakeFiles/ethstratum.dir/EthStratumClientV2.cpp.o
+/bin/ranlib libethstratum.a

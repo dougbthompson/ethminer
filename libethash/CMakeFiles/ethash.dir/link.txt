@@ -1,0 +1,2 @@
+/bin/ar qc libethash.a  CMakeFiles/ethash.dir/internal.c.o CMakeFiles/ethash.dir/sha3.c.o
+/bin/ranlib libethash.a
